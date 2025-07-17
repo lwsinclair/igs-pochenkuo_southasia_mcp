@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-igs-pochenkuo-southasia-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-igs-pochenkuo-southasia-mcp)
+
 # SouthAsia MCP 工具
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
